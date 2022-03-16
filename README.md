@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="right" src="https://github.com/vinhvinh-cloud/vinhvinh-cloud/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
+
+<p><img align="right" src="https://github.com/vinhvinh-cloud/vinhvinh-cloud/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 - 📫 How to reach me **vinh466@gmail.com**
 
