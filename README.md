@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+<p align="right"> 
+    <h3>Profile Views :-</h3> 
+    <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
+ </p>
 
 <br>
-
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 <br>
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       alt="" height="30" width="40" /></a> 
   <a href="https://www.facebook.com/vinh466/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="" height="30" width="40" /></a>
+      alt="" height="28" width="40" /></a>
   <a href="https://discord.gg/QUSA93P" target="blank"><img align="center"
       src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"
       alt="" height="30" width="40" /></a>
