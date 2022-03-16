@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
+<p><img align="right" src="https://github.com/vinhvinh-cloud/vinhvinh-cloud/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 <br>
 
