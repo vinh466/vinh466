@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   </p>
 
 <br>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 
@@ -31,6 +30,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **vinh466@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
 
