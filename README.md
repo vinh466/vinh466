@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vinh</h1>
-<h3 align="center">IT student at Can Tho University🌟.</h3>
 
 <br>
 
@@ -27,8 +26,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently a web developer.
 - 🔭 I’m currently working on TypeScript and JavaScript
-
-<p><img align="right" src="https://github.com/vinhvinh-cloud/vinhvinh-cloud/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
 
 - 📫 Reach me **vinh466@gmail.com**
   
